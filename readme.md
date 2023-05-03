@@ -2,10 +2,11 @@
 
 <p align="center">
   <a href="" rel="nofollow"><img alt="Required PHP Version" src="https://img.shields.io/badge/php->=8.0.0-blue?style=flat-square"></a>
-  <a href="https://packagist.org/packages/alirezasedghi/laravel-image-faker" rel="nofollow"><img alt="Total Downloads" src="https://poser.pugx.org/alirezasedghi/laravel-image-faker/downloads?style=flat-square"></a>
-  <a href="https://packagist.org/packages/alirezasedghi/laravel-image-faker" rel="nofollow"><img alt="Latest Stable Version" src="https://poser.pugx.org/alirezasedghi/laravel-image-faker/v/stable?style=flat-square"></a>
-  <a href="https://raw.githubusercontent.com/AlirezaSedghi/laravel-image-faker/master/LICENSE" rel="nofollow"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-  <a href="https://github.com/AlirezaSedghi/laravel-image-faker/issues" rel="nofollow"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlirezaSedghi/laravel-image-faker.svg?style=flat-square"></a>
+  <a href="https://packagist.org/packages/alirezasedghi/laravel-image-faker"><img alt="Total Downloads" src="https://poser.pugx.org/alirezasedghi/laravel-image-faker/downloads?style=flat-square"></a>
+  <a href="https://packagist.org/packages/alirezasedghi/laravel-image-faker"><img alt="Latest Stable Version" src="https://poser.pugx.org/alirezasedghi/laravel-image-faker/v/stable?style=flat-square"></a>
+  <a href="https://github.com/AlirezaSedghi/laravel-image-faker/releases"><img alt="Latest Stable Version" src="https://img.shields.io/github/v/release/AlirezaSedghi/laravel-image-faker?style=flat-square"></a>
+  <a href="https://raw.githubusercontent.com/AlirezaSedghi/laravel-image-faker/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
+  <a href="https://github.com/AlirezaSedghi/laravel-image-faker/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AlirezaSedghi/laravel-image-faker.svg?style=flat-square"></a>
 </p>
 
 ## Description
