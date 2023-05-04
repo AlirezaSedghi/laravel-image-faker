@@ -1,6 +1,17 @@
 {
     "name": "alirezasedghi/laravel-image-faker",
     "description": "A library to generate fake images for Laravel",
+    "keywords": [
+        "PHP",
+        "laravel",
+        "laravel-faker",
+        "image-faker",
+        "image",
+        "faker",
+        "random-image",
+        "PHP"
+    ],
+    "homepage": "https://github.com/AlirezaSedghi/laravel-image-faker",
     "type": "laravel",
     "license": "MIT",
     "authors": [
