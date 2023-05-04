@@ -23,6 +23,7 @@ The following sources are utilized by this project to create random images:
 - [Lorem Picsum](https://picsum.photos/)
 - [LoremFlickr](https://loremflickr.com/)
 - [PlaceDog](https://placedog.net/)
+- [Kittens (Random Cats) by TheOldReader.com](https://theoldreader.com/kittens/)
 - [Fake People by BoredHumans.com](https://boredhumans.com/faces.php)
 
 ## Methods
@@ -44,6 +45,7 @@ public function definition(): array
      * In order to utilize other services, the following substitutes can be used: 
      *  - new ImageFaker(new LoremFlickr()); 
      *  - new ImageFaker(new PlaceDog()); 
+     *  - new ImageFaker(new Kittens()); 
      *  - new ImageFaker(new FakePeople()); 
      */
     $imageFaker = new ImageFaker(new Picsum());
