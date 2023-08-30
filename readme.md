@@ -29,8 +29,8 @@ The following sources are utilized by this project to create random images:
 ## Methods
 | Code                             | Description                                                                    |
 |----------------------------------|--------------------------------------------------------------------------------|
-| ``` (new ImageFaker(new Serivce()))->imageUrl() ```   | Return a random image url from the specified service      |
-| ``` (new ImageFaker(new Serivce()))->image() ```      | Download a random image from the specified service        |
+| ``` (new ImageFaker(new Service()))->imageUrl() ```   | Return a random image url from the specified service      |
+| ``` (new ImageFaker(new Service()))->image() ```      | Download a random image from the specified service        |
 
 ## Usage
 ```php
